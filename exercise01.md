@@ -15,3 +15,4 @@
 4. Where are the internals of the repository stored? Paste the output of the following command on macOS & Linux.
 
         ls -lA
+C:/Users/Nate/Desktop/Fall 2022/CISW/Git/git-tutorial/my_respository/.git/
