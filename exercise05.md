@@ -18,3 +18,9 @@
 
         git status
 
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        my_respository/
+
+nothing added to commit but untracked files present (use "git add" to track)
