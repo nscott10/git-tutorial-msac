@@ -35,8 +35,10 @@
         git status
 
 10. Which of the steps could be omitted?
+Adding a comment with -m
 
 11. Why might it be a bad idea to omit them?
+Its a bad idea because it makes it more difficult to keep track of changes
 
 12. Repeat the above steps to add a new file with the name `vegetables.txt`
 
